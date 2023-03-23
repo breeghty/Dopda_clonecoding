@@ -37,7 +37,7 @@ Scrolla.js와 Slick.js를 사용하였습니다.
 - 클론코딩 100%<br>
 - 웹표준, 웹접근성, 반응형웹<br>
 - HTML, CSS, Javascript, jQuery<br>
-- 레이아웃 연습, CSS 애니메이션
+- ScrollTop, fixHeader, CSS 애니메이션, Slick.js, Scrolla.js
 </div>
 
 <br>
