@@ -20,7 +20,7 @@ Scrolla.js와 Slick.js를 사용하였습니다.
 
 <div align=center>
 <h2>👀 클론코딩 사이트 보기 (Click to View) </h2>
-👉 <a href="https://breeghty.github.io/Dopda_clonecoding/">
+👉 <a href="https://breeghty.github.io/Dopda_clonecoding/" target="_blank">
   https://breeghty.github.io/Dopda_clonecoding/</a>
 </div>
 
